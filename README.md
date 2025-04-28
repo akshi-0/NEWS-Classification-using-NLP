@@ -1,1 +1,6 @@
-# NEWS-Classification-using-NLP
+flask
+numpy
+pandas
+scikit-learn
+joblib
+nltk
