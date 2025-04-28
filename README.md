@@ -1,6 +1,1 @@
-flask
-numpy
-pandas
-scikit-learn
-joblib
-nltk
+
